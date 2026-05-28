@@ -16,9 +16,3 @@ Dado que el código está diseñado para probar la lógica de evaluación médic
 - **Manejo de Excepciones:** Uso de bloques `try-except` para garantizar que las entradas manuales durante la simulación sean estrictamente valores numéricos (enteros o booleanos).
 - **Ejecución en Bucle:** El sistema se mantiene monitorizando "en tiempo real" hasta que el usuario (o el sistema médico) decida detener la simulación.
 
-## 💻 Cómo Ejecutar el Proyecto
-
-1. Asegúrate de tener Python instalado en tu sistema.
-2. Ejecuta el archivo principal desde tu terminal:
-   ```bash
-   python monitor_cardiaco.py
